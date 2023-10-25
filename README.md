@@ -1,3 +1,3 @@
-# Ceuillete de pomme
+# Cueillete de pommes
  ## Description
-Ceuillete de pomme est un jeu ou vous devez récupérer le plus de pommes possible avant qu'ils touchent le sol..
+Cueillette de pommes est un jeu ou vous devez récupérer le plus de pommes possible avant qu'ils touchent le sol.
